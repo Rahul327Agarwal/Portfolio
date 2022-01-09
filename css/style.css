@@ -222,9 +222,19 @@ nav {
 #intro .intro-content a :hover {
   background: rgba(0, 218, 244, 0.9) !important;
 }
-#intro .intro-content .intro-img {
+#intro .intro-content .rahul-img {
+  width: 60%;
+  height: 80%;
+  border-radius: 99%;
+  border-color: rgb(216, 40, 40);
+  border: 3px;
+  border-style: dotted;
+  
+}
+.rahul-img{
   width: 80%;
   height: 100%;
+  padding: 15%;
 }
 #intro .intro-content .intro-img img {
   width: 100%;
